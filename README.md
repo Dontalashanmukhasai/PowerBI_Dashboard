@@ -32,7 +32,9 @@ An interactive Power BI dashboard was created to make insights easy to explore:
 
 🛠️ Tools & Technologies
 Python: pandas, numpy, matplotlib, seaborn
+
 Power BI: Data modeling, DAX, visualization
+
 Jupyter Notebook
 
 🚀 Key Insights
