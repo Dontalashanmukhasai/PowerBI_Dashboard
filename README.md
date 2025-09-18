@@ -1,51 +1,60 @@
-#🚗🔋 EV Sales Analysis
+<h1>🚗🔋 EV Sales Analysis</h1>
 
-This project focuses on analyzing Electric Vehicle (EV) sales data using Python (EDA, cleaning, analysis) and Power BI (interactive dashboard). The goal is to uncover insights into adoption trends, regional distribution, and sales patterns to better understand the growth of the EV sector.
+This project focuses on analyzing Electric Vehicle (EV) sales data using <b>Python</b> (EDA, cleaning, analysis) and <b>Power BI</b> (interactive dashboard). The goal is to uncover insights into adoption trends, regional distribution, and sales patterns to better understand the growth of the EV sector.
 
-##📌 Project Workflow
-###1. Data Collection
-Dataset: Raw Dataset collected from the kaggle website
-Format: CSV/Excel
+<h2>📌 Project Workflow</h2>
 
-###2. Data Cleaning (Python)
-Handled missing values
-Removed duplicates
-Standardized column names & formats
-Converted data types for accurate analysis
+<h3>1. Data Collection</h3>
+<ul>
+  <li>Dataset: Raw Dataset collected from the Kaggle website</li>
+  <li>Format: CSV/Excel</li>
+</ul>
 
-###3. Exploratory Data Analysis (Python)
-Distribution of EV sales over years
-State/region-wise adoption trends
-Vehicle category breakdown (2W, 3W, 4W, etc.)
-Correlation between variables
-Visualization using matplotlib and seaborn
+<h3>2. Data Cleaning (Python)</h3>
+<ul>
+  <li>Handled missing values</li>
+  <li>Removed duplicates</li>
+  <li>Standardized column names & formats</li>
+  <li>Converted data types for accurate analysis</li>
+</ul>
 
+<h3>3. Exploratory Data Analysis (Python)</h3>
+<ul>
+  <li>Distribution of EV sales over years</li>
+  <li>State/region-wise adoption trends</li>
+  <li>Vehicle category breakdown (2W, 3W, 4W, etc.)</li>
+  <li>Correlation between variables</li>
+  <li>Visualization using <code>matplotlib</code> and <code>seaborn</code></li>
+</ul>
 
-###4. Dashboard Development (Power BI)
-An interactive Power BI dashboard was created to make insights easy to explore:
-📊 Year-wise EV sales trends
-🌍 State-wise sales distribution (map view)
-🚘 Vehicle type/category breakdown
-📈 Comparative growth analysis
+<h3>4. Dashboard Development (Power BI)</h3>
+An <b>interactive Power BI dashboard</b> was created to make insights easy to explore:
+<ul>
+  <li>📊 Year-wise EV sales trends</li>
+  <li>🌍 State-wise sales distribution (map view)</li>
+  <li>🚘 Vehicle type/category breakdown</li>
+  <li>📈 Comparative growth analysis</li>
+</ul>
 
 <img width="1434" height="802" alt="image" src="https://github.com/user-attachments/assets/de750139-c837-41a9-aae9-e4d7087f671f" />
 
-##🛠️ Tools & Technologies
-####Python: pandas, numpy, matplotlib, seaborn
-####Power BI: Data modeling, DAX, visualization
-Jupyter Notebook
+<h2>🛠️ Tools & Technologies</h2>
+<ul>
+  <li><b>Python:</b> pandas, numpy, matplotlib, seaborn</li>
+  <li><b>Power BI:</b> Data modeling, DAX, visualization</li>
+  <li><b>Jupyter Notebook</b></li>
+</ul>
 
+<h2>🚀 Key Insights</h2>
+<ul>
+  <li>Increasing adoption trend in EV sales over the years</li>
+  <li>Certain states show significantly higher adoption rates</li>
+  <li>Two-wheelers dominate EV sales, but 4W segment is growing</li>
+  <li>Seasonal or year-wise spikes in EV adoption</li>
+</ul>
 
+<h2>📌 How to Use</h2>
+<h3>Clone the repository:</h3>
 
-##🚀 Key Insights
-Increasing adoption trend in EV sales over the years
-Certain states show significantly higher adoption rates
-Two-wheelers dominate EV sales, but 4W segment is growing
-Seasonal or year-wise spikes in EV adoption
-
-##📌 How to Use
-
-###Clone the repository:
- git clone <repo-link>
-Open Ev_Sales_Analysis.ipynb in Jupyter to explore the data cleaning & EDA.
-Open Ev_Sales.pbix in Power BI Desktop to interact with the dashboard.
+```bash
+git clone https://github.com/Dontalashanmukhasai/PowerBI_Dashboard
